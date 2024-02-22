@@ -1,0 +1,26 @@
+html {
+  background-color: aqua;
+  font-family: "Libre Baskerville", serif;
+  text-transform: ;
+}
+
+.center {
+  text-align: center;
+  padding: 10px;
+  margin: 0;
+}
+
+.job {
+  padding: 0;
+  margin: 0px;
+}
+
+.pp {
+  border: 5px solid wheat;
+  border-radius: 100%;
+}
+
+.name {
+  text-transform: capitalize;
+  padding: 0;
+}
